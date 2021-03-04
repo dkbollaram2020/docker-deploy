@@ -1,0 +1,4 @@
+numpy
+scipy
+scikit-learn
+Flask==1.0.0
